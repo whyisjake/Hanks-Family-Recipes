@@ -5387,8 +5387,8 @@ header a {
   padding: 9px;
   border: 1px solid #babcbc;
 }
-.content-area .box-shadow(0 0 5px, 30%) h2,
-.widget-area .box-shadow(0 0 5px, 30%) h2 {
+.content-area .box-shadow(0 0 5px, 30%) h1,
+.widget-area .box-shadow(0 0 5px, 30%) h1 {
   font-family: 'Sail', cursive;
 }
 .box {
