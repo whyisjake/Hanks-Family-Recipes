@@ -29,10 +29,9 @@ get_header(); ?>
 						<?php the_date() ?> - from <?php the_author_posts_link(); ?>
 						<hr>
 						<?php the_content(); ?>
+						<hr>
 
 					<?php endwhile; ?>
-					
-					<hr>
 
 					<?php comments_template(); ?>
 					
