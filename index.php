@@ -26,7 +26,7 @@ get_header(); ?>
 					<?php while ( have_posts() ) : the_post(); ?>
 
 						<h1><?php the_title('<a href="' . get_permalink() . '">', '</a>'); ?></h1>
-						<?php the_date('F jS, Y') ?> - from <?php the_author_posts_link(); ?>
+						<?php the_time('F jS, Y') ?> - from <?php the_author_posts_link(); ?>
 						<hr>
 						<?php the_content(); ?>
 						<hr>
