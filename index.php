@@ -27,6 +27,7 @@ get_header(); ?>
 
 						<h1><?php the_title('<a href="' . get_permalink() . '">', '</a>'); ?></h1>
 						<?php the_date() ?> - from <?php the_author_posts_link(); ?>
+						<hr>
 						<?php the_content(); ?>
 
 					<?php endwhile; ?>
