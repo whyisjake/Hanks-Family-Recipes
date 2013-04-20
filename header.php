@@ -19,6 +19,7 @@
 <![endif]-->
 <script type="text/javascript" src="//use.typekit.net/dam6bfy.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link href='http://fonts.googleapis.com/css?family=Sail' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 </head>
 
