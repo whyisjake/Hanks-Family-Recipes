@@ -5391,6 +5391,9 @@ header a {
 .widget-area .box-shadow(0 0 5px, 30%) h1 {
   font-family: 'Sail', cursive;
 }
+.site-content h1 {
+  font-family: 'Sail', cursive;
+}
 .box {
   color: #fe33ac;
   border-color: #fdcdea;
